@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: myTrainings
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: shashi
+Implementation-Vendor-Id: org.cb9
+Build-Jdk: 1.8.0_261
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/mystudy
+Created-By: Maven Integration for Eclipse
+
